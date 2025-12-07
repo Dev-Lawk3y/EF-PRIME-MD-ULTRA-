@@ -129,7 +129,7 @@ module.exports = {
 ├⬡ Current bot prefix: ${global.prefix || '/'}
 ╰────────────❒\n\n`;
             
-            helpMessage += `BOT BY FRANK🇲🇼`;
+            helpMessage += `BOT BY L A W K E Y 🇳🇬`;
             
             await sock.sendMessage(m.chat, {
                 text: helpMessage,
@@ -140,12 +140,12 @@ module.exports = {
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363419090892208@newsletter',
-                        newsletterName: "EF-PRIME",
+                        newsletterName: "MARVLUZ BoT",
                         serverMessageId: 143
                     },
                     externalAdReply: {
-                        title: 'EF-PRIME-MD V2',
-                        body: 'EF-PRIME-MD V2 by Frank dev',
+                        title: 'Lawkey Marvelous',
+                        body: 'ULTRoN by Dev Lawkey Marvelous',
                         thumbnailUrl: 'https://files.catbox.moe/oifwcm.jpg',
                         sourceUrl: 'Frankdevinc.com',
                         mediaType: 1,
