@@ -50,8 +50,8 @@ module.exports = {
                 );
             }
             
-            const stickerAuthor = "Frank | EF-PRIME-MD v2";
-            const stickerPackName = args.join(' ') || "EF-PRIME Stickers";
+            const stickerAuthor = "cool shii 🥲 | Lawkey Marvluz";
+            const stickerPackName = args.join(' ') || "ULTRoN Stickers";
             
             const quoted = m.quoted ? m.quoted : m;
             const mime = quoted.mimetype || '';
