@@ -23,10 +23,10 @@ module.exports = {
             const ramUsage = Math.round(process.memoryUsage().heapUsed / 1024 / 1024);
             
             
-            const instagram = "efkidgamer";
-            const github = "Frank kaumba";
-            const facebook = "Frank kaumba";
-            const botName = "EF-PRIME-MD v2";
+            const instagram = "sadlawkey";
+            const github = "Dev-Lawk3y";
+            const facebook = "Lawkey Marvelous";
+            const botName = "MARVLUZ BOT";
             
             
             const apiUrl = `https://kaiz-apis.gleeze.com/api/uptime?instag=${instagram}&ghub=${github}&fb=${facebook}&hours=${hours}&minutes=${minutes}&seconds=${seconds}&botname=${encodeURIComponent(botName)}`;
@@ -40,7 +40,7 @@ module.exports = {
 ├⬡ 🔋 *RAM: ${ramUsage}MB*
 ╰────────────❒
 
-BOT ＢＹ ＦＲＡＮＫ🇲🇼`;
+BOT ＢＹ L A W K E Y 🇳🇬`;
             
             try {
                 
